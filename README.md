@@ -3,13 +3,6 @@
 
 
 
-![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![YOLOv10](https://img.shields.io/badge/YOLOv10-Custom%20Trained-green.svg)
-![Flask](https://img.shields.io/badge/Flask-API-orange.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff69b4.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 
 ## 🎯 Project Overview
 
