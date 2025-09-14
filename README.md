@@ -1,6 +1,14 @@
 # 🛍️ AI Retail Shelf Vision Analytics
 ### *Advanced Computer Vision Pipeline for Automated Retail Shelf Auditing & SKU Recognition*
 
+## Development Journey & Alternative Approaches
+
+https://github.com/mohanganesh3/Shelf-Detection-yolo-clip-ocr-faiss-brandcount-feedback
+
+https://github.com/mohanganesh3/retail-detection-sam-dinov2-faiss
+
+https://github.com/mohanganesh3/shelf-detection-using-YOLOv8-imageEmbedding-and-knn
+
 
 
 
